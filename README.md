@@ -1,4 +1,3 @@
-# NexusOps
 
 A full-stack internal company management system for employee records, departments, IT asset tracking, support tickets, and a production floor dashboard, built with role-based authentication and containerized deployment.
 
